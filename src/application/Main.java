@@ -21,7 +21,7 @@ package application;
     import javafx.stage.Stage;
 
 
-	public class Main2 extends Application {
+	public class Main extends Application {
 		@Override
 		public void start(Stage primaryStage) {
 			try {
